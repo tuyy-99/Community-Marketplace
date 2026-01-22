@@ -121,3 +121,6 @@ Ongoing maintenance includes bug fixes, performance improvements, and feature en
 ## Conclusion
 
 The Community Marketplace project demonstrates effective teamwork, structured development practices, and practical use of modern web technologies. The platform has the potential to positively impact local communities by supporting safe, simple, and sustainable local commerce.
+## License
+This project is licensed under the MIT License.
+
